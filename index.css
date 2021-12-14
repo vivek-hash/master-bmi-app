@@ -1,0 +1,53 @@
+
+.bmi {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 150px;
+  margin: auto;
+  position: relative;
+  border: 1px solid skyblue;
+  background-color:skyblue;
+  height: 60%;
+  width: 50%;
+  border-radius: 10px;
+  font-style:inherit;
+  font-weight:lighter;
+}
+
+h1 {
+  text-decoration:solid;
+  margin-top: 10px;
+  font-family:Georgia, 'Times New Roman', Times, serif
+}
+ 
+input {
+  border: 1px solid black;
+  width: 250px;
+  padding: 10px 15px;
+  margin: 0 auto 10px auto;
+  color: black;
+  font-size: 18px;
+  font-weight: 300;
+  border-radius: 10px;
+}
+
+.button {
+  appearance: none;
+  outline: 0;
+  background-color:skyblue;
+  border: 10px;
+  margin: 14px;
+  padding: 10px 15px;
+  color: white;
+  border-radius: 15px;
+  font-size: 18px;
+  position: relative;
+}
+.check-result{
+  text-align: center;
+}
+
+button:hover {
+  background-color:rgb(rgb(241, 20, 20), rgb(237, 241, 237), rgb(182, 182, 228));
+  font-size: 100%;
+}
